@@ -1,5 +1,5 @@
 # Geotagged photo software
-The application reads the geographic coordinates of the photos and write it to .csv file. 
+The application reads the geographic coordinates of the photos and save it in .csv file. 
 The program recognizes file extensions, but it uses the .jpg extensions to create the coordinates directory (.csv)
 
 
